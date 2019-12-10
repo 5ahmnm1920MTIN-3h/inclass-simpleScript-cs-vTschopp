@@ -38,6 +38,6 @@ public class ComputeNumbers : MonoBehaviour
     {
         input1.text = "";
         input2.text = "";
-        result.text = "";
+        result.text = "Result";
     }
 }
