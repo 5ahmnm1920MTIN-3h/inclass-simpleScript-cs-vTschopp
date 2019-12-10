@@ -21,7 +21,7 @@ public class ComputeNumbers : MonoBehaviour
         {
             Debug.Log("ERROR 1: Number(s) missing.");
 
-            string outputError = "ERROR";
+            string outputError = "ERROR"; // Altough it's a variable, keep it down here.
             return outputError;
         }
         else
